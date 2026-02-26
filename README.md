@@ -1,2 +1,2 @@
 # MitoGenome_Ngsdata_analysis
-First mitogenome-based study of a Dumbo Octopus (Grimpoteuthis sp.) from the Andaman Seamounts using reference-based and de novo assembly approaches.
+Comprehensive mitochondrial genome assembly, annotation, and phylogenetic analysis of a deep-sea Dumbo Octopus (Grimpoteuthis sp.) collected from the Andaman Seamounts during  internship. The study integrates reference-based and de novo assembly approaches using NGS data to investigate genetic variation, evolutionary relationships, and species identification.
