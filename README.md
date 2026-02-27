@@ -22,8 +22,6 @@ Reference-based Alignment (BWA)
 SAM to BAM Processing (SAMtools)  
 Consensus Mitogenome Generation  
 Annotation (MITOS2)  
-BLAST Validation  
-Phylogenetic Analysis  
 
 # Step-by-Step Procedure
 
