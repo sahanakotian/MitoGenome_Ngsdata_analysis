@@ -12,24 +12,17 @@ Comprehensive mitochondrial genome assembly, annotation, and phylogenetic analys
 
 *Dumbo Octopus (Grimpoteuthis sp.)  
 Deep-sea cephalopod species collected from Andaman Seamounts.
-# Analysis Workflow
+
+# Analysis steps
 
 Raw Illumina FASTQ  
-⬇  
 Quality Filtering (fastp)  
-⬇  
 Quality Assessment (FastQC)  
-⬇  
 Reference-based Alignment (BWA)  
-⬇  
 SAM to BAM Processing (SAMtools)  
-⬇  
 Consensus Mitogenome Generation  
-⬇  
 Annotation (MITOS2)  
-⬇  
 BLAST Validation  
-⬇  
 Phylogenetic Analysis  
 
 # Step-by-Step Procedure
