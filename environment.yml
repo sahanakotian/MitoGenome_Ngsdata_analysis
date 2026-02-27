@@ -1,0 +1,11 @@
+name: mito_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastp
+  - fastqc
+  - bwa
+  - samtools
+  - bcftools
+  - seqtk
