@@ -15,7 +15,7 @@ Deep-sea cephalopod species collected from Andaman Seamounts.
 
 # Analysis steps
 
-Raw Illumina FASTQ  
+Raw Illumina FASTQ (Raw FASTQ files not uploaded due to size limitations.)
 Quality Filtering (fastp)  
 Quality Assessment (FastQC)  
 Reference-based Alignment (BWA)  
